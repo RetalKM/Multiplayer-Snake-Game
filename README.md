@@ -4,26 +4,26 @@ Snake Game  is a networked version of the classic Snake game built as a distribu
 
 # Features
 
-	•	Real-time multiplayer functionality
-	•	Server-client architecture using TCP sockets
-	•	Independent input handling via multithreading
-	•	Random food generation using the random module
-	•	Clear flowchart and modular logic
-	•	Basic error handling and command-line flexibility
+	• Real-time multiplayer functionality
+	• Server-client architecture using TCP sockets
+	• Independent input handling via multithreading
+	• Random food generation using the random module
+	• Clear flowchart and modular logic
+	• Basic error handling and command-line flexibility
 
 # Technologies Used
 
-	•	Language: Python
-	•	Modules:
-	•	socket – for networking
-	•	threading – to handle concurrent clients
-	•	selectors – for asynchronous I/O
-	•	random – for unpredictable item placements
-	•	sys – for command-line arguments
+	• Language: Python
+	• Modules:
+	• socket – for networking
+	• threading – to handle concurrent clients
+	• selectors – for asynchronous I/O
+	• random – for unpredictable item placements
+	• sys – for command-line arguments
 
 # Team Contributions
 
-	•	Retal Malki: Game logic, flowchart design, Python implementation, testing
-	•	Rama Sabbagh: Module integration, socket programming, report writing
-	•	Hanadi Alshawesh:  Flowchart creation, input logic, debugging, presentation prep
+	• Retal Malki: Game logic, flowchart design, Python implementation, testing
+	• Rama Sabbagh: Module integration, socket programming, report writing
+	• Hanadi Alshawesh:  Flowchart creation, input logic, debugging, presentation prep
 
